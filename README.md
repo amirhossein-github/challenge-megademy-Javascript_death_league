@@ -1,2 +1,3 @@
 # challenge-megademy-Javascript_death_league
-challenge
+## Challenge - List
+10. [Word Counter](./Challenge%20Holder%20(10)/README.md)
