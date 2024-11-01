@@ -1,3 +1,3 @@
 # challenge-megademy-Javascript_death_league
 ## Challenge - List
-10. [Word Counter](./Challenge%20Holder%20(10)/README.md)
+10. [Word Counter](./challenges/10-word_counter/src/index.html)
