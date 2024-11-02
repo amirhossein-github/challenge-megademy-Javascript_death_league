@@ -1,4 +1,5 @@
 # challenge-megademy-Javascript_death_league
 ## Challenge - List
-10. [Word Counter](./challenges/10-word_counter/src/index.html)
-15. [Symbol Counter](./challenges/15-symbol_counter/src/index.html)
+- [Word Counter (10)](./challenges/10-word_counter/src/index.html)
+- [The Sum of a Set of Numbers (14)](./challenges/14-the_sum_of%20_%20a_set_of_%20numbers/src/index.html)
+- [Symbol Counter (15)](./challenges/15-symbol_counter/src/index.html)
