@@ -1,6 +1,6 @@
 # challenge-megademy-Javascript_death_league
 ## Challenge - List
-- [(09) - Word Counter](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/09-chose_background_color/src/index.html)
+- [(09) - Change Background Color](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/09-change_background_color/src/index.html)
 - [(10) - Word Counter](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/10-word_counter/src/index.html)
 - [(11) - Even or Odd Number](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/11-even_or_odd_number/src/index.html)
 - [(12) - Simple Calculator (+ - * /)](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/12-simple_calculator-sum_sub_mul_div/src/index.html)
