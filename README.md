@@ -1,7 +1,8 @@
 # challenge-megademy-Javascript_death_league
 ## Challenge - List
+- [(03) - Reverse Timer](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/03-reverse-timer/src/index.html)
 - [(06) - Simple Timer](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/06-simple_timer/src/index.html)
-- [(07) - Dynamic Addition and Subtraction](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/07-dynamic_additionـandـsubtraction/src/index.html)
+- [(07) - Dynamic Addition and Subtraction](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/07-dynamic_addition_and_subtraction/src/index.html)
 - [(08) - Conditional Sign-up Form](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/08-conditional_sign_up_form/src/index.html)
 - [(09) - Change Background Color](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/09-change_background_color/src/index.html)
 - [(10) - Word Counter](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/10-word_counter/src/index.html)
