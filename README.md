@@ -1,6 +1,7 @@
 # challenge-megademy-Javascript_death_league
 ## Challenge - List
 - [(01) - Simple Calculator With Special Operation](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/01-simple_calculator_with_special_operation/src/index.html)
+- [(02) - Number Guessing Game](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/02-number_guessing_game/src/index.html)
 - [(03) - Reverse Timer](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/03-reverse-timer/src/index.html)
 - [(04) - Convert Temperature Units](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/04-convert_temperature_units/src/index.html)
 - [(06) - Simple Timer](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/06-simple_timer/src/index.html)
