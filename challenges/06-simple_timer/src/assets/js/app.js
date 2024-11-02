@@ -71,6 +71,7 @@ function timerRestart(){
     timerStop()
     counter = 0
     showResult(counter)
+    timer = undefined
 
 }
 
