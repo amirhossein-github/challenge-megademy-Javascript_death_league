@@ -1,5 +1,6 @@
 # challenge-megademy-Javascript_death_league
 ## Challenge - List
+- [(08) - Conditional Sign-up Form](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/08-conditional_sign_up_form/src/index.html)
 - [(09) - Change Background Color](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/09-change_background_color/src/index.html)
 - [(10) - Word Counter](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/10-word_counter/src/index.html)
 - [(11) - Even or Odd Number](https://amirhossein-github.github.io/challenge-megademy-Javascript_death_league/challenges/11-even_or_odd_number/src/index.html)
